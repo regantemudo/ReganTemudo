@@ -8,8 +8,8 @@ I'm passionate about cybersecurity, ethical hacking, and solving complex CTF cha
 
 * 🌍  I'm based in India
 * 🤝  I'm open to collaborating on Cybersecurity research projects
-* CTF challenge creation and competitions
-* Ethical hacking and pentesting engagements
+* 🤝  CTF challenge creation and competitions
+* 🤝  Ethical hacking and pentesting engagements
 * ⚡  Enjoys solving complex puzzles and exploring the latest security trends
 
 <a href="https://www.github.com/regantemudo" target="_blank" rel="noreferrer"><img
