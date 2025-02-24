@@ -20,5 +20,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=regantemudo&icon=5&color=12)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/regantemudo/regantemudo/output/snake.svg" alt="Snake animation" />
 
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
