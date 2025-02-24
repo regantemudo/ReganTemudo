@@ -7,7 +7,9 @@ Cybersecurity Enthusiast | Ethical Hacker | CTF Creator
 I'm passionate about cybersecurity, ethical hacking, and solving complex CTF challenges. I love exploring security vulnerabilities, creating engaging challenges, and sharing my knowledge with the community.
 
 * 🌍  I'm based in India
-* 🤝  I'm open to collaborating on Cybersecurity research projects CTF challenge creation and competitions Ethical hacking and pentesting engagements
+* 🤝  I'm open to collaborating on Cybersecurity research projects
+* CTF challenge creation and competitions
+* Ethical hacking and pentesting engagements
 * ⚡  Enjoys solving complex puzzles and exploring the latest security trends
 
 <a href="https://www.github.com/regantemudo" target="_blank" rel="noreferrer"><img
