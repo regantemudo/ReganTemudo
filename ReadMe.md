@@ -1,7 +1,7 @@
 Hi There, I'm Regan Temudo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Cybersecurity Enthusiast | Ethical Hacker | CTF Creator
+Ethical Hacker | Penetration Tester | SOC Analyst | CTF Player | OSINT Researcher | Author
 -------------------------------------------------------
 
 I'm passionate about cybersecurity, ethical hacking, and solving complex CTF challenges. I love exploring security vulnerabilities, creating engaging challenges, and sharing my knowledge with the community.
