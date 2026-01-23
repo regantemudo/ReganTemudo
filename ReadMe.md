@@ -82,8 +82,3 @@
 
 ![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=regantemudo&color=00ff9c&style=flat-square" />
-</p>
