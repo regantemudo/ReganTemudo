@@ -68,14 +68,41 @@
 
 ## 📊 GitHub Activity Snapshot
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=regantemudo&theme=tokyonight&hide_border=true&fire=FF6B6B" />
-</p><br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=regantemudo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p><br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regantemudo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com
+  /?user=regantemudo
+  &theme=github-dark
+  &hide_border=true
+  &background=000000
+  &ring=AAAAAA
+  &fire=FFFFFF
+  &currStreakLabel=AAAAAA" />
 </p>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api
+  ?username=regantemudo
+  &show_icons=true
+  &theme=github_dark
+  &hide_border=true
+  &bg_color=000000
+  &title_color=FFFFFF
+  &icon_color=AAAAAA
+  &text_color=CCCCCC
+  &rank_icon=github" />
+</p>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/
+  ?username=regantemudo
+  &layout=compact
+  &theme=github_dark
+  &hide_border=true
+  &bg_color=000000
+  &title_color=FFFFFF
+  &text_color=CCCCCC
+  &langs_count=6" />
+</p>
+
 
 ---
 
