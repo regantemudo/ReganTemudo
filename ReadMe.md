@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hacker;Ethical+Hacker+%7C+ OSINT Researcher;Break.+Detect.+Repeat." />
-</p>
-
 # 👋 Hi there
 
 ### About me:
