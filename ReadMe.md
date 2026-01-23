@@ -1,3 +1,6 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
 # 👋 Hi there
 
 ### About me:
@@ -74,8 +77,4 @@
 <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=regantemudo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ---
-
-## 🐍 GitHub Snake (because why not)
-
-![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
