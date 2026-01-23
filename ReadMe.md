@@ -21,8 +21,6 @@
 
 ---
 
-## 🏴 Hangouts
-
 ## 🏴 Hangouts (Find me here)
 
 - 🧠 **TryHackMe:** https://tryhackme.com/p/T.Regan  
