@@ -14,7 +14,7 @@
 
 ## 🧠 What I know & actually use
 
-- ChatGPT (for automation ideas, payload logic, research acceleration — not magic exploits)
+- ChatGPT (for automation ideas, payload logic, research acceleration not magic exploits)
 - OSINT frameworks & dark web tooling
 - SIEM-driven detection & alert triage
 - CTF-style problem solving applied to real systems
