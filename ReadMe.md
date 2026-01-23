@@ -66,18 +66,15 @@
 - Arduino  
 
 
-## 📊 Statistics (because dopamine)
-
+## 📊 GitHub Activity Snapshot
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=regantemudo&theme=tokyonight&hide_border=true" />
-</p>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=regantemudo&theme=tokyonight&hide_border=true&fire=FF6B6B" />
+</p><br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=regantemudo&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=regantemudo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p><br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regantemudo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regantemudo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
