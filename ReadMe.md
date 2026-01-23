@@ -44,6 +44,7 @@ src="https://img.shields.io/twitter/follow/regan_temudo?logo=twitter&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/regantemudo"><img src="https://github-readme-stats.vercel.app/api?username=regantemudo&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="regantemudo's GitHub stats" /></a>
+<a href="http://www.github.com/regantemudo"><img src="https://github-readme-stats.vercel.app/api?username=regantemudo&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="regantemudo's GitHub stats" /></a><br/>
 
-<a href="http://www.github.com/regantemudo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=regantemudo&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](https://nirzak-streak-stats.vercel.app/?user=regantemudo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=regantemudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
