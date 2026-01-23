@@ -12,7 +12,7 @@
 - 🕵️ Active in **OSINT, dark web monitoring, and ransomware intelligence**
 - 📃 I write real-world security research, CTF writeups, and incident analysis
 - 🧠 Obsessed with understanding **how attacks actually work in production**
-- 📬 Contact: **regan_temudo@proton.me**
+- 📬 Contact: **temudosys@proton.me**
 
 ---
 
@@ -44,13 +44,12 @@
 
 ## ☁️ Clouds & Infra
 
-- AWS  
-- Azure  
+- AWS
 - Cloudflare  
 
 ---
 
-## 🧑‍💻 Languages I read other people’s smart stuff in, and write my own mess with
+## 🧑‍💻 Languages I read other people's rich stuff, and write my own mess with
 
 - Python  
 - Bash  
@@ -59,23 +58,6 @@
 - PHP  
 - C / C++  
 - Java  
-
----
-
-## 🐧 Distros I’ve lived in
-
-- Kali Linux  
-- Debian  
-- Arch  
-- FreeBSD  
-
----
-
-## 🧰 Containers & DevSecOps
-
-- Docker  
-- Kubernetes  
-
 ---
 
 ## 🔌 When software isn’t enough
@@ -83,14 +65,6 @@
 - Raspberry Pi  
 - Arduino  
 
----
-
-## 🧾 When configs need love
-
-- Apache  
-- Nginx  
-
----
 
 ## 📊 Statistics (because dopamine)
 
@@ -111,13 +85,6 @@
 ## 🐍 GitHub Snake (because why not)
 
 ![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-## 🍺 I can buy myself a beer (optional flex)
-
-**BTC:**  
-`bc1qxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
 
 ---
 
