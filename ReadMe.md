@@ -23,9 +23,13 @@
 
 ## 🏴 Hangouts
 
-- GitHub  
-- Medium (security research & threat intel)
-- CTF platforms & private labs
+## 🏴 Hangouts (Find me here)
+
+- 🧠 **TryHackMe:** https://tryhackme.com/p/T.Regan  
+- 🐙 **GitHub:** https://github.com/regantemudo  
+- ✍️ **Medium:** https://medium.com/@regan_temudo  
+- 🐦 **Twitter / X:** https://x.com/Regan_Temudo  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/regan-temudo  
 
 ---
 
