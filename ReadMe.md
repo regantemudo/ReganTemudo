@@ -88,6 +88,15 @@
   </a>
 </div>
 
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=regantemudo&show_icons=true&theme=merko)
+
+<br>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=regantemudo&theme=github-compact)
+
+<br>
 <br clear="both">
 
 <picture>
