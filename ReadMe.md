@@ -108,3 +108,6 @@
 <img align="left" 
      src="https://github-readme-stats.vercel.app/api?username=regantemudo&count_private=true&show_icons=true&theme=github_dark" />
 <br>
+<img 
+  src="https://raw.githubusercontent.com/regantemudo/regantemudo/main/profile-3d-contrib/profile-night-green.svg" />
+<br>
