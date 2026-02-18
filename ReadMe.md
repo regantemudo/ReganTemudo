@@ -87,7 +87,15 @@
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/3" alt="Medium post 4"  />
   </a>
 </div>
+<br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/regantemudo/regantemudo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/regantemudo/regantemudo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/regantemudo/regantemudo/output/pacman-contribution-graph.svg">
+</picture>
+
+<br>
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=regantemudo&show_icons=true&theme=merko)
@@ -97,10 +105,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=regantemudo&theme=github-compact)
 
 <br>
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/regantemudo/regantemudo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/regantemudo/regantemudo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/regantemudo/regantemudo/output/pacman-contribution-graph.svg">
-</picture>
+<img align="left" 
+     src="https://github-readme-stats.vercel.app/api?username=regantemudo&count_private=true&show_icons=true&theme=github_dark" />
+<br>
