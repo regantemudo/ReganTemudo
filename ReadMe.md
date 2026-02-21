@@ -48,6 +48,7 @@ Contact   :  temudosys@proton.me
 **GRC & Compliance**
 
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-0052CC?style=flat&logoColor=white)
+![ISO 42001](https://img.shields.io/badge/ISO_42001-0052CC?style=flat&logoColor=white)
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF-003087?style=flat&logoColor=white)
 
 **Languages & Dev**
