@@ -1,10 +1,6 @@
 ![Banner](https://github.com/user-attachments/assets/b78eb541-830d-483e-aa67-d2153e9ea25f)
-
 <div align="center">
-
-<h1>Regan Temudo</h1>
 <h3>Ethical Hacker · Penetration Tester · OSINT Researcher · GRC Analyst</h3>
-
 <p>
   <a href="https://linkedin.com/in/regan-temudo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@regan_temudo"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
