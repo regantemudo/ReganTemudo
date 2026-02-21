@@ -26,22 +26,6 @@ Contact   :  temudosys@proton.me
 ```
 ---
 
-<br><br>
-
-**[📊 Cybersecurity Skill Inflation Index](https://github.com/regantemudo/Cybersecurity-Skill-Inflation-Index)** — automated intelligence engine measuring whether cybersecurity employers are inflating job requirements faster than compensation.
-
-![Score](https://img.shields.io/badge/Global_Inflation_Score-3.32_🔴_HIGH-red?style=flat)
-![Domains](https://img.shields.io/badge/Domains-GRC_|_SOC_|_Pentest_|_Cloud_|_AppSec_|_IAM-blue?style=flat)
-![Automation](https://img.shields.io/badge/Auto--Updated-Weekly_via_GitHub_Actions-00e5ff?style=flat)
-
-- Pulls **real job listings** weekly via Adzuna API + JSearch (Google Jobs)
-- **Auto-classifies domain** from job descriptions using keyword intelligence engine
-- Generates **12 dark-theme charts** — inflation trends, cert demand, exploitation heatmaps, salary vs experience
-- Flags exploitation patterns: `CERT_OVERLOAD` · `EXPERIENCE_INFLATION` · `SENIOR_EXPLOITATION`
-- Tracks **6 countries**, **3 seniority levels**, all salaries normalized to USD
-
----
-
 ## 🛠️ Arsenal
 
 **Offensive Security**
