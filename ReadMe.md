@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1>Regan Temudo</h1>
-<h3>Ethical Hacker · Penetration Tester · OSINT Researcher · Cybersecurity Intelligence Builder</h3>
+<h3>Ethical Hacker · Penetration Tester · OSINT Researcher · GRC Analyst</h3>
 
 <p>
   <a href="https://linkedin.com/in/regan-temudo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -25,21 +25,11 @@
 ```bash
 Name      :  Regan Temudo  (He/Him)
 Location  :  South Goa, India
-Role      :  Cyber Security Analyst @ Haztech  |  CTO @ CyberSecHere
 Education :  BTech Cyber Security & Forensics — Srinivas University (2022–2026)
 Focus     :  Offensive Security · OSINT · Threat Intelligence · GRC Analytics
 Contact   :  temudosys@proton.me
 ```
-
-> Ethical hacker, CTF player, and builder — currently running the **[Cybersecurity Skill Inflation Index (CSII)](https://github.com/regantemudo/Cybersecurity-Skill-Inflation-Index)**, an automated intelligence engine that tracks how employer requirements across 6 security domains are outpacing salaries. Nearly **4,000 LinkedIn followers** and growing.
-
 ---
-
-## 🔥 Featured Project — CSII
-
-<a href="https://github.com/regantemudo/Cybersecurity-Skill-Inflation-Index">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=regantemudo&repo=Cybersecurity-Skill-Inflation-Index&theme=dark&bg_color=0d1117&border_color=00e5ff&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9"/>
-</a>
 
 <br><br>
 
@@ -80,9 +70,6 @@ Contact   :  temudosys@proton.me
 
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-0052CC?style=flat&logoColor=white)
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF-003087?style=flat&logoColor=white)
-![SOC 2](https://img.shields.io/badge/SOC_2-00897B?style=flat&logoColor=white)
-![GDPR](https://img.shields.io/badge/GDPR-003366?style=flat&logoColor=white)
-![PCI-DSS](https://img.shields.io/badge/PCI--DSS-006400?style=flat&logoColor=white)
 
 **Languages & Dev**
 
@@ -104,26 +91,6 @@ Contact   :  temudosys@proton.me
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-
----
-
-## 🏅 Certifications
-
-| Certification | Issuer | Year | Status |
-|--------------|--------|------|--------|
-| **Ethical Hacking Essentials (EHE)** | EC-Council | 2022 | ✅ Active |
-| **Cybersecurity Fundamentals** | IBM | 2022 | ✅ Active |
-| **TryHackMe — Jr Penetration Tester Path** | TryHackMe | 2023 | ✅ Active |
-| **(ISC)² Candidate** | ISC2 | 2023 | 📋 Candidate |
-| **Python Core** | Sololearn | 2020 | ✅ Active |
-| **Python For Beginners** | Sololearn | 2021 | ✅ Active |
-| **SQL** | Sololearn | 2022 | ✅ Active |
-| **HTML** | Sololearn | 2020 | ✅ Active |
-| **CSS** | Sololearn | 2020 | ✅ Active |
-| **Bronze Badge — Python** | HackerRank | 2022 | ✅ Active |
-| **Digital Marketing** | HubSpot Academy | 2023 | ✅ Active |
-| **SEO** | HubSpot Academy | 2023 | ✅ Active |
-| **Social Media Marketing** | HubSpot Academy | 2023 | ✅ Active |
 
 ---
 
@@ -166,18 +133,15 @@ Contact   :  temudosys@proton.me
 |--------|-------------|--------|
 | **BTech — Cyber Security & Cyber Forensics** | Srinivas University Institute of Engineering & Technology, Mangalore | 2022 – 2026 |
 | Vocational Studies — Computer Techniques | Ramacrisa Madeva Salgaocar Higher School, Margao | 2020 – 2022 |
-| High School | Our Lady Of Snow High School, Raia | 2017 – 2020 |
 
 ---
 
 ## 🚀 Currently
 
 ```
-🔭  Building CSII — automated cybersecurity job market intelligence engine
 🌱  Sharpening Purple Team skills — offense meets detection engineering
 🕵️  Active OSINT research: dark web monitoring & threat actor profiling
 📃  Writing real-world security research → medium.com/@regan_temudo
-🎯  Pursuing OSCP certification
 📚  Learning: malware tradecraft, detection engineering, SOC automation at scale
 ```
 
