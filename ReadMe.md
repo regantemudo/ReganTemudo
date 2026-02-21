@@ -19,9 +19,8 @@
 ## `$ whoami`
 
 ```bash
-Name      :  Regan Temudo  (He/Him)
-Location  :  South Goa, India
-Education :  BTech Cyber Security & Forensics — Srinivas University (2022–2026)
+Name      :  Regan Temudo
+Location  :  Goa, India
 Focus     :  Offensive Security · OSINT · Threat Intelligence · GRC Analytics
 Contact   :  temudosys@proton.me
 ```
