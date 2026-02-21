@@ -1,95 +1,238 @@
-![933fd79795eb9](https://github.com/user-attachments/assets/b78eb541-830d-483e-aa67-d2153e9ea25f)
+![Banner](https://github.com/user-attachments/assets/b78eb541-830d-483e-aa67-d2153e9ea25f)
 
-# 👋 Hi there
+<div align="center">
 
-### About me:
+<h1>Regan Temudo</h1>
+<h3>Ethical Hacker · Penetration Tester · OSINT Researcher · Cybersecurity Intelligence Builder</h3>
 
-- 🔭 I work across **Ethical Hacking, SOC Operations, and Threat Intelligence**
-- 🌱 Currently sharpening **Purple Team** skills — offense meets detection
-- 👯 Open to collaborating with **serious cybersecurity researchers & builders**
-- 🕵️ Active in **OSINT, dark web monitoring, and ransomware intelligence**
-- 📃 I write real-world security research, CTF writeups, and incident analysis
-- 🧠 Obsessed with understanding **how attacks actually work in production**
-- 📬 Contact: **temudosys@proton.me**
+<p>
+  <a href="https://linkedin.com/in/regan-temudo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@regan_temudo"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://x.com/Regan_Temudo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/T.Regan"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://regan.cybersechere.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+  <a href="mailto:temudosys@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+</p>
 
----
+<img src="https://komarev.com/ghpvc/?username=regantemudo&color=00e5ff&style=flat&label=Profile+Views"/>
 
-## 🧠 What I know & actually use
-
-- ChatGPT (for automation ideas, payload logic, research acceleration not magic exploits)
-- OSINT frameworks & dark web tooling
-- SIEM-driven detection & alert triage
-- CTF-style problem solving applied to real systems
+</div>
 
 ---
 
-## 🏴 Hangouts (Find me here)
+## `$ whoami`
 
-- 🧠 **TryHackMe:** https://tryhackme.com/p/T.Regan  
-- ✍️ **Medium:** https://medium.com/@regan_temudo  
-- 🐦 **Twitter / X:** https://x.com/Regan_Temudo  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/regan-temudo  
+```bash
+Name      :  Regan Temudo  (He/Him)
+Location  :  South Goa, India
+Role      :  Cyber Security Analyst @ Haztech  |  CTO @ CyberSecHere
+Education :  BTech Cyber Security & Forensics — Srinivas University (2022–2026)
+Focus     :  Offensive Security · OSINT · Threat Intelligence · GRC Analytics
+Contact   :  temudosys@proton.me
+```
 
----
-
-## 📚 I’m learning something new here
-
-- Advanced detection engineering
-- Malware & ransomware tradecraft
-- Blue Team tooling at scale
-- Automation for SOC workflows
+> Ethical hacker, CTF player, and builder — currently running the **[Cybersecurity Skill Inflation Index (CSII)](https://github.com/regantemudo/Cybersecurity-Skill-Inflation-Index)**, an automated intelligence engine that tracks how employer requirements across 6 security domains are outpacing salaries. Nearly **4,000 LinkedIn followers** and growing.
 
 ---
 
-## ☁️ Clouds & Infra
+## 🔥 Featured Project — CSII
 
-- AWS
-- Cloudflare  
+<a href="https://github.com/regantemudo/Cybersecurity-Skill-Inflation-Index">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=regantemudo&repo=Cybersecurity-Skill-Inflation-Index&theme=dark&bg_color=0d1117&border_color=00e5ff&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9"/>
+</a>
+
+<br><br>
+
+**[📊 Cybersecurity Skill Inflation Index](https://github.com/regantemudo/Cybersecurity-Skill-Inflation-Index)** — automated intelligence engine measuring whether cybersecurity employers are inflating job requirements faster than compensation.
+
+![Score](https://img.shields.io/badge/Global_Inflation_Score-3.32_🔴_HIGH-red?style=flat)
+![Domains](https://img.shields.io/badge/Domains-GRC_|_SOC_|_Pentest_|_Cloud_|_AppSec_|_IAM-blue?style=flat)
+![Automation](https://img.shields.io/badge/Auto--Updated-Weekly_via_GitHub_Actions-00e5ff?style=flat)
+
+- Pulls **real job listings** weekly via Adzuna API + JSearch (Google Jobs)
+- **Auto-classifies domain** from job descriptions using keyword intelligence engine
+- Generates **12 dark-theme charts** — inflation trends, cert demand, exploitation heatmaps, salary vs experience
+- Flags exploitation patterns: `CERT_OVERLOAD` · `EXPERIENCE_INFLATION` · `SENIOR_EXPLOITATION`
+- Tracks **6 countries**, **3 seniority levels**, all salaries normalized to USD
+
+---
+
+## 🛠️ Arsenal
+
+**Offensive Security**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
+
+**OSINT & Threat Intelligence**
+
+![Maltego](https://img.shields.io/badge/Maltego-00A4CC?style=flat&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Dark Web Monitoring](https://img.shields.io/badge/Dark_Web_Monitoring-222222?style=flat&logoColor=white)
+
+**GRC & Compliance**
+
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0052CC?style=flat&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-003087?style=flat&logoColor=white)
+![SOC 2](https://img.shields.io/badge/SOC_2-00897B?style=flat&logoColor=white)
+![GDPR](https://img.shields.io/badge/GDPR-003366?style=flat&logoColor=white)
+![PCI-DSS](https://img.shields.io/badge/PCI--DSS-006400?style=flat&logoColor=white)
+
+**Languages & Dev**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 ---
 
-## 🧑‍💻 Languages I read other people's rich stuff, and write my own mess with
+## 🏅 Certifications
 
-- Python  
-- Bash  
-- PowerShell  
-- JavaScript  
-- PHP  
-- C / C++  
-- Java  
----
-
-## 🔌 When software isn’t enough
-
-- Raspberry Pi  
-- Arduino  
-
-
-## 📊 GitHub Activity Snapshot
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=regantemudo&theme=dark&show_icons=true&count_private=true">
-  
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=regantemudo&theme=dark"></td><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=regantemudo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+| Certification | Issuer | Year | Status |
+|--------------|--------|------|--------|
+| **Ethical Hacking Essentials (EHE)** | EC-Council | 2022 | ✅ Active |
+| **Cybersecurity Fundamentals** | IBM | 2022 | ✅ Active |
+| **TryHackMe — Jr Penetration Tester Path** | TryHackMe | 2023 | ✅ Active |
+| **(ISC)² Candidate** | ISC2 | 2023 | 📋 Candidate |
+| **Python Core** | Sololearn | 2020 | ✅ Active |
+| **Python For Beginners** | Sololearn | 2021 | ✅ Active |
+| **SQL** | Sololearn | 2022 | ✅ Active |
+| **HTML** | Sololearn | 2020 | ✅ Active |
+| **CSS** | Sololearn | 2020 | ✅ Active |
+| **Bronze Badge — Python** | HackerRank | 2022 | ✅ Active |
+| **Digital Marketing** | HubSpot Academy | 2023 | ✅ Active |
+| **SEO** | HubSpot Academy | 2023 | ✅ Active |
+| **Social Media Marketing** | HubSpot Academy | 2023 | ✅ Active |
 
 ---
-### Top Story
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/0" alt="Medium post 1"  />
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%">
+
+**🔴 Current**
+
+| Role | Company | Since |
+|------|---------|-------|
+| Cyber Security Analyst *(Intern)* | Haztech | Jan 2026 |
+| CTO — Cybersecurity Startup | CyberSecHere | Apr 2023 |
+| OSINT Researcher & Tech Writer | OSINT Team | Mar 2025 |
+| Cybersecurity Content Creator | Medium | Aug 2023 |
+| Cybersecurity Content Writer | regan.cybersechere.com | Nov 2022 |
+
+</td>
+<td width="50%">
+
+**⬛ Past**
+
+| Role | Company | Period |
+|------|---------|--------|
+| Server Security Analyst *(Intern)* | Treztec Consulting | Jul–Aug 2024 |
+| Server Security Analyst *(Intern)* | Treztec Consulting | Dec 2023–Jan 2024 |
+| CTF Creator | Let's Exploit | Feb–Jun 2023 |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| **BTech — Cyber Security & Cyber Forensics** | Srinivas University Institute of Engineering & Technology, Mangalore | 2022 – 2026 |
+| Vocational Studies — Computer Techniques | Ramacrisa Madeva Salgaocar Higher School, Margao | 2020 – 2022 |
+| High School | Our Lady Of Snow High School, Raia | 2017 – 2020 |
+
+---
+
+## 🚀 Currently
+
+```
+🔭  Building CSII — automated cybersecurity job market intelligence engine
+🌱  Sharpening Purple Team skills — offense meets detection engineering
+🕵️  Active OSINT research: dark web monitoring & threat actor profiling
+📃  Writing real-world security research → medium.com/@regan_temudo
+🎯  Pursuing OSCP certification
+📚  Learning: malware tradecraft, detection engineering, SOC automation at scale
+```
+
+---
+
+## 📊 GitHub Stats
+
+<table><tbody><tr border="none">
+<td width="50%" align="center">
+
+<img src="https://readme-stats-fork-mauve.vercel.app/api/?username=regantemudo&theme=dark&show_icons=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=regantemudo&theme=dark&background=0d1117&border=30363d&ring=00e5ff&fire=ff4560&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=regantemudo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8&bg_color=0d1117&border_color=30363d&title_color=00e5ff&text_color=c9d1d9"/>
+
+</td>
+</tr></tbody></table>
+
+---
+
+## 🏴 Find Me
+
+| Platform | Link |
+|----------|------|
+| 🧠 TryHackMe | [tryhackme.com/p/T.Regan](https://tryhackme.com/p/T.Regan) |
+| ✍️ Medium | [medium.com/@regan_temudo](https://medium.com/@regan_temudo) |
+| 🐦 X / Twitter | [x.com/Regan_Temudo](https://x.com/Regan_Temudo) |
+| 💼 LinkedIn | [linkedin.com/in/regan-temudo](https://linkedin.com/in/regan-temudo) |
+| 📝 Blog | [regan.cybersechere.com](https://regan.cybersechere.com) |
+| 📬 Email | [temudosys@proton.me](mailto:temudosys@proton.me) |
+
+---
+
+### 📰 Latest Articles
+
+<div align="center">
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/0">
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/0" alt="Latest Article"/>
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/1" alt="Medium post 2"  />
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/1">
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/1"/>
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/2" alt="Medium post 3"  />
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/2">
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/2"/>
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/3">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/3" alt="Medium post 4"  />
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/3">
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@regan_temudo/3"/>
   </a>
 </div>
-<br clear="both">
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/regantemudo/regantemudo/output/pacman-contribution-graph-dark.svg">
@@ -97,12 +240,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/regantemudo/regantemudo/output/pacman-contribution-graph.svg">
 </picture>
 
-<br>
-<br>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=regantemudo&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=regantemudo&theme=github-compact&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ff4560&area=true&area_color=00e5ff)
 
 <br>
-<img 
-  src="https://raw.githubusercontent.com/regantemudo/regantemudo/main/profile-3d-contrib/profile-night-green.svg" />
-<br>
+<img src="https://raw.githubusercontent.com/regantemudo/regantemudo/main/profile-3d-contrib/profile-night-green.svg"/>
