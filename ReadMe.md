@@ -178,6 +178,14 @@ Contact   :  temudosys@proton.me
 
 ---
 
+## 🌍 Live Threat Map
+
+> Visualizing active campaigns, C2 infrastructure, and attacker geography documented in this repo.
+
+![Live Threat Map](https://raw.githubusercontent.com/regantemudo/dfir-playbooks/main/threat-map.svg)
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/regantemudo/regantemudo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/regantemudo/regantemudo/output/pacman-contribution-graph.svg">
