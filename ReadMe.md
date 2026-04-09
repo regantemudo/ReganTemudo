@@ -84,8 +84,7 @@ Contact   :  temudosys@proton.me
 
 | Role | Company | Since |
 |------|---------|-------|
-| Cyber Security Analyst *(Intern)* | Haztech | Jan 2026 |
-| CTO — Cybersecurity Startup | CyberSecHere | Apr 2023 |
+| Chief Technology Officer | CyberSecHere | Apr 2023 |
 | OSINT Researcher & Tech Writer | OSINT Team | Mar 2025 |
 | Cybersecurity Content Creator | Medium | Aug 2023 |
 | Cybersecurity Content Writer | regan.cybersechere.com | Nov 2022 |
@@ -97,8 +96,9 @@ Contact   :  temudosys@proton.me
 
 | Role | Company | Period |
 |------|---------|--------|
-| Server Security Analyst *(Intern)* | Treztec Consulting | Jul–Aug 2024 |
-| Server Security Analyst *(Intern)* | Treztec Consulting | Dec 2023–Jan 2024 |
+| Cyber Security Analyst *(Intern)* | Haztech | Jan-Feb 2026 |
+| Server Security Analyst *(Intern)* | Treztec Consulting | Jul-Aug 2024 |
+| Server Security Analyst *(Intern)* | Treztec Consulting | Dec 2023-Jan 2024 |
 | CTF Creator | Let's Exploit | Feb–Jun 2023 |
 
 </td>
@@ -111,15 +111,15 @@ Contact   :  temudosys@proton.me
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| **BTech — Cyber Security & Cyber Forensics** | Srinivas University Institute of Engineering & Technology, Mangalore | 2022 – 2026 |
-| Vocational Studies — Computer Techniques | Ramacrisa Madeva Salgaocar Higher School, Margao | 2020 – 2022 |
+| **BTech: Cyber Security & Cyber Forensics** | Srinivas University Institute of Engineering & Technology, Mangalore | 2022 - 2026 |
+| Vocational Studies: Computer Techniques | Ramacrisa Madeva Salgaocar Higher School, Margao | 2020 - 2022 |
 
 ---
 
 ## 🚀 Currently
 
 ```
-🌱  Sharpening Purple Team skills — offense meets detection engineering
+🌱  Sharpening Purple Team skills offense meets detection engineering
 🕵️  Active OSINT research: dark web monitoring & threat actor profiling
 📃  Writing real-world security research → medium.com/@regan_temudo
 📚  Learning: malware tradecraft, detection engineering, SOC automation at scale
