@@ -80,7 +80,7 @@ Contact   :  temudosys@proton.me
 <tr>
 <td width="50%">
 
-**🔴 Current**
+**🔎 Current**
 
 | Role | Company | Since |
 |------|---------|-------|
@@ -90,9 +90,12 @@ Contact   :  temudosys@proton.me
 | Cybersecurity Content Writer | regan.cybersechere.com | Nov 2022 |
 
 </td>
+<br>
+</tr>
+<tr>
 <td width="50%">
 
-**⬛ Past**
+**🔙 Past**
 
 | Role | Company | Period |
 |------|---------|--------|
@@ -112,7 +115,7 @@ Contact   :  temudosys@proton.me
 | Degree | Institution | Period |
 |--------|-------------|--------|
 | **BTech: Cyber Security & Cyber Forensics** | Srinivas University Institute of Engineering & Technology, Mangalore | 2022 - 2026 |
-| Vocational Studies: Computer Techniques | Ramacrisa Madeva Salgaocar Higher School, Margao | 2020 - 2022 |
+| **Vocational Studies: Computer Techniques** | Ramacrisa Madeva Salgaocar Higher School, Margao | 2020 - 2022 |
 
 ---
 
